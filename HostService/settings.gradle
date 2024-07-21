@@ -1,0 +1,6 @@
+rootProject.name = 'HostService'
+include 'BLL'
+include 'DLL'
+include 'Controller'
+include 'Models'
+

@@ -1,0 +1,6 @@
+rootProject.name = 'CatService'
+include 'DLL'
+include 'Models'
+include 'BLL'
+include 'Controller'
+
